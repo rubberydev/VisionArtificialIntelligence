@@ -1,0 +1,3 @@
+# VisionArtificialIntelligence
+
+Learning python for applications to machine learning and more...
